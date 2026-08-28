@@ -110,7 +110,7 @@ body{background:var(--bg);color:var(--ink);font-family:var(--font-body);line-hei
    ============================================================================ */
 const ORG_NAME = "Your Organization";
 const TAGLINE = "Volunteer canvass calendar — pick a shift, sign up on Mobilize.";
-const LOGO_IMAGE = "https://imgur.com/euG8kKh";
+const LOGO_IMAGE = "https://i.imgur.com/euG8kKh.png";
 const GOOGLE_CALENDAR_ID = "Y181NDBjMGM1MjRlOGJiYmQyODRiMTVkNzU2ODNlZGQzZDA5MWNjNjI3NDg5NzA0YTJlZDEzYzA1YWExNGE3MTBkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20";
 const TIMEZONE = "America/Chicago";
 const DEFAULT_VIEW = "WEEK";
